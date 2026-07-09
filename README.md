@@ -16,6 +16,7 @@
 # 💫 About Me
 
 Full Stack Developer passionate about architecting scalable backend systems, high-performance REST APIs, secure authentication, authorization, database optimization, and AI-driven applications using modern software engineering practices.
+
 💡 Interested in
 
 - Backend Engineering
@@ -79,7 +80,7 @@ Python • Java • JavaScript
 
 ---
 
-##Backend
+## Backend
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet"/>
